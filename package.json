@@ -1,0 +1,16 @@
+{
+  "name": "gemini-node-integration",
+  "version": "1.0.0",
+  "description": "curso alura - Gemini e Node.js: integrando sua aplicação com a API do Google Gemini e Node.js: integrando sua aplicação com a API do Google",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@google/generative-ai": "^0.22.0"
+  }
+}
